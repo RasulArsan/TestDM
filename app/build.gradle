@@ -5,6 +5,7 @@ plugins {
 }
 
 android {
+    namespace 'com.testdm'
     compileSdkVersion 34
     defaultConfig {
         applicationId "com.testdm"
